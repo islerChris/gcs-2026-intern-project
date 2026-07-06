@@ -11,7 +11,7 @@ By using Svelte, students can get experience with using foundational web technol
 
 ## Contributors
 
-### Week of July 6th
+### Week of July 6th Kristen
 
 ### Week of July 13th
 
