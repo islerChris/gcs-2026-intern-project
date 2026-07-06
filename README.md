@@ -22,3 +22,12 @@ By using Svelte, students can get experience with using foundational web technol
 ### Week of August 3rd
 
 ### Week of August 10th
+
+## Resources for Students
+Students can log into the following **free** resources using their GitHub accounts and continue learning how to program outside of the internship:
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [Exercism](https://exercism.org/)
+- [Svelte.dev | Tutorial](https://svelte.dev/tutorial/svelte/welcome-to-svelte)
+- [The Odin Project](https://www.theodinproject.com/paths)
+
+Also, signup for the [GitHub Student Developer Pack](https://education.github.com/pack) to take advantage of all the cool offers! You can get a free domain name, app hosting, professional courses, LLM tokens, and more.
