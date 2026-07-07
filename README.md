@@ -11,7 +11,9 @@ By using Svelte, students can get experience with using foundational web technol
 
 ## Contributors
 
-### Week of July 6th Kristen
+### Week of July 6th - Kristen [@Kristen27-cyber](https://github.com/Kristen27-cyber)
+
+Kristen's app: https://gcs-2026-intern-project.vercel.app
 
 ### Week of July 13th
 
