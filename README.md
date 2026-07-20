@@ -20,6 +20,7 @@ Kristen's app: https://gcs-2026-intern-project.vercel.app
 Xander's app: https://xander-gcs-todo.vercel.app/
 
 ### Week of July 20th
+Christian
 
 ### Week of July 27th
 
