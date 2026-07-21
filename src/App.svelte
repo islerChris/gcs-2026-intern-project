@@ -44,7 +44,7 @@
             checked={todo.done}
             onchange={() => store.toggleTodo(todo.id)}
           />
-          <span class="text">{todo.text}</span>
+          <input class="text" value={todo.text} onchange={(e) => store.updateTodo(todo.id, e.target.value)}>
           <button class="delete" onclick={() => store.removeTodo(todo.id)}>
             ✕
           </button>
