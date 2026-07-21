@@ -20,7 +20,7 @@ Kristen's app: https://gcs-2026-intern-project.vercel.app
 Xander's app: https://xander-gcs-todo.vercel.app/
 
 ### Week of July 20th
-Christian
+Christian's app: https://voluble-malabi-0c1582.netlify.app/
 
 Micah's app:
 
